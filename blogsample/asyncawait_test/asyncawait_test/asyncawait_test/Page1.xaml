@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="asyncawait_test.Page1"
+             xmlns:local="clr-namespace:asyncawait_test">
+  <ContentPage.BindingContext>
+    <local:ViewModel />
+  </ContentPage.BindingContext>
+    <StackLayout Orientation="Vertical">
+      <Button Text="test" Command="{Binding MyCommand}" />
+      <ListView ItemsSource="{Binding MyList}" />
+    </StackLayout>  
+</ContentPage>
