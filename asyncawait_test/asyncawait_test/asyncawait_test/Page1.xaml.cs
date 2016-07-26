@@ -69,6 +69,8 @@ namespace asyncawait_test
         //awaitで呼び出されるため別スレッドで実行されるメソッド
         private void TestMethod()
         {
+            //これはエラー
+            //MyList.Add("aaa");
             //これならOK
             Device.BeginInvokeOnMainThread(() => MyList.Add("aaa"));
         }
