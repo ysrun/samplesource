@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PC</Machine>
+    <WindowsUser>USER</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>85930d70-750c-41a6-9b95-03faaed4159c</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\USER\Documents\GitHub\samplesource\asyncawait_test\asyncawait_test\asyncawait_test.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>372DB15861EEC2E473485D5C6396EAFC39C579E5364C0DE62F2907CE94740E44</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>85930d70-750c-41a6-9b95-03faaed4159c_1.0.0.0_neutral__nh7s0b45jarrj</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>85930d70-750c-41a6-9b95-03faaed4159c_nh7s0b45jarrj!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>85930d70-750c-41a6-9b95-03faaed4159c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=joaqu</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\USER\Documents\GitHub\samplesource\asyncawait_test\asyncawait_test\asyncawait_test.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-26T13:54:41.690</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\USER\Documents\GitHub\samplesource\asyncawait_test\asyncawait_test\asyncawait_test.Windows\bin\Debug\asyncawait_test.Windows.exe">
+      <PackagePath>asyncawait_test.Windows.exe</PackagePath>
+      <Modified>2016-07-26T13:54:38.984</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\USER\Documents\GitHub\samplesource\asyncawait_test\asyncawait_test\asyncawait_test\bin\Debug\asyncawait_test.dll">
+      <PackagePath>asyncawait_test.dll</PackagePath>
+      <Modified>2016-07-26T13:54:30.230</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\USER\Documents\GitHub\samplesource\asyncawait_test\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Core.dll">
+      <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
+      <Modified>2015-11-16T22:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\USER\Documents\GitHub\samplesource\asyncawait_test\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.dll">
+      <PackagePath>Xamarin.Forms.Platform.dll</PackagePath>
+      <Modified>2015-11-16T22:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\USER\Documents\GitHub\samplesource\asyncawait_test\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.dll</PackagePath>
+      <Modified>2015-11-16T22:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\USER\Documents\GitHub\samplesource\asyncawait_test\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet.dll</PackagePath>
+      <Modified>2015-11-16T22:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\USER\Documents\GitHub\samplesource\asyncawait_test\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Xaml.dll">
+      <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
+      <Modified>2015-11-16T22:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\USER\Documents\GitHub\samplesource\asyncawait_test\asyncawait_test\asyncawait_test.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-26T03:54:46.792</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\USER\Documents\GitHub\samplesource\asyncawait_test\asyncawait_test\asyncawait_test.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-26T03:54:46.809</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\USER\Documents\GitHub\samplesource\asyncawait_test\asyncawait_test\asyncawait_test.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-26T03:54:46.813</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\USER\Documents\GitHub\samplesource\asyncawait_test\asyncawait_test\asyncawait_test.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-26T03:54:46.813</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\USER\Documents\GitHub\samplesource\asyncawait_test\asyncawait_test\asyncawait_test.Windows\bin\Debug\asyncawait_test.Windows.xr.xml">
+      <PackagePath>asyncawait_test.Windows.xr.xml</PackagePath>
+      <Modified>2016-07-26T13:54:37.365</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\USER\Documents\GitHub\samplesource\asyncawait_test\asyncawait_test\asyncawait_test.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-07-26T13:54:37.595</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\USER\Documents\GitHub\samplesource\asyncawait_test\asyncawait_test\asyncawait_test.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-07-26T13:54:37.596</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\USER\Documents\GitHub\samplesource\asyncawait_test\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT\FormsTextBox.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\FormsTextBox.xbf</PackagePath>
+      <Modified>2015-11-16T22:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\USER\Documents\GitHub\samplesource\asyncawait_test\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT\PageControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\PageControl.xbf</PackagePath>
+      <Modified>2015-11-16T22:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\USER\Documents\GitHub\samplesource\asyncawait_test\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT\StepperControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\StepperControl.xbf</PackagePath>
+      <Modified>2015-11-16T22:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\USER\Documents\GitHub\samplesource\asyncawait_test\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml</PackagePath>
+      <Modified>2015-11-16T22:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\USER\Documents\GitHub\samplesource\asyncawait_test\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf</PackagePath>
+      <Modified>2015-11-16T22:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\USER\Documents\GitHub\samplesource\asyncawait_test\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf</PackagePath>
+      <Modified>2015-11-16T22:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\USER\Documents\GitHub\samplesource\asyncawait_test\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml</PackagePath>
+      <Modified>2015-11-16T22:31:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\USER\Documents\GitHub\samplesource\asyncawait_test\asyncawait_test\asyncawait_test.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-07-26T13:54:40.671</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

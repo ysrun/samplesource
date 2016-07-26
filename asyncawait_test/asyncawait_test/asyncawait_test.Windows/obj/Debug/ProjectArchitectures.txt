@@ -1,0 +1,2 @@
+C:\Users\USER\Documents\GitHub\samplesource\asyncawait_test\asyncawait_test\asyncawait_test.Windows\asyncawait_test.Windows.csproj;neutral
+C:\Users\USER\Documents\GitHub\samplesource\asyncawait_test\asyncawait_test\asyncawait_test\asyncawait_test.csproj;neutral
