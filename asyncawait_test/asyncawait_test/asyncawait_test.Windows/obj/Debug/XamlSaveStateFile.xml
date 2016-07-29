@@ -1,7 +1,7 @@
 <XamlCompilerSaveState>
   <ReferenceAssemblyList>
     <LocalAssembly PathName="c:\users\user\documents\github\samplesource\asyncawait_test\asyncawait_test\asyncawait_test.windows\obj\debug\intermediatexaml\asyncawait_test.windows.exe" HashGuid="08f82b88-eeef-0d2f-44e4-784256ba73f4" />
-    <ReferenceAssembly PathName="c:\users\user\documents\github\samplesource\asyncawait_test\asyncawait_test\asyncawait_test\bin\debug\asyncawait_test.dll" HashGuid="6e28a64e-2853-7855-6af3-2f7e53a33ef1" />
+    <ReferenceAssembly PathName="c:\users\user\documents\github\samplesource\asyncawait_test\asyncawait_test\asyncawait_test\bin\debug\asyncawait_test.dll" HashGuid="85a886dd-b56a-2d14-ef90-0f085064ba4c" />
     <ReferenceAssembly PathName="c:\users\user\documents\github\samplesource\asyncawait_test\packages\xamarin.forms.2.0.0.6482\lib\win81\xamarin.forms.core.dll" HashGuid="c8a30eb8-5ae8-352d-b94f-7c913a7557ba" />
     <ReferenceAssembly PathName="c:\users\user\documents\github\samplesource\asyncawait_test\packages\xamarin.forms.2.0.0.6482\lib\win81\xamarin.forms.platform.dll" HashGuid="d9389e38-8a39-bed5-406b-7a34fe4704ea" />
     <ReferenceAssembly PathName="c:\users\user\documents\github\samplesource\asyncawait_test\packages\xamarin.forms.2.0.0.6482\lib\win81\xamarin.forms.platform.winrt.dll" HashGuid="dbd728c2-e21b-4125-2be0-f7931b605baa" />
